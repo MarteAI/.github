@@ -1,6 +1,6 @@
 # MarteAI
 
-![MarteAI Logo](https://marteai.com/assets/favicon-VB4RW2aL.png)
+<img src="https://marteai.com/assets/favicon-VB4RW2aL.png" alt="MarteAI Logo" width="100" height="100">
 
 ## Transforma tus datos en información valiosa en un solo clic.
 
